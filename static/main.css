@@ -100,3 +100,7 @@ td {
 #content {
     width: 70%;
 }
+
+.input {
+    padding: 0.6rem;
+}
